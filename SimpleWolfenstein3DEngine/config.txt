@@ -1,0 +1,10 @@
+windowWidth:400
+windowHeight:400
+fullscreen:0
+playerFOV:45
+rayWidth:1
+drawDistance:20
+redTint:255
+greenTint:25
+blueTint:25
+mapActive:0
