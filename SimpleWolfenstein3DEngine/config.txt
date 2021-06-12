@@ -1,10 +1,10 @@
-windowWidth:400
-windowHeight:400
+windowWidth:800
+windowHeight:600
 fullscreen:0
-playerFOV:45
-rayWidth:1
+playerFOV:90
+rayWidth:0.4
 drawDistance:20
-redTint:255
-greenTint:25
-blueTint:25
+redTint:124
+greenTint:169
+blueTint:190
 mapActive:0
